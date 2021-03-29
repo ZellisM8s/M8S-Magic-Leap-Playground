@@ -1,6 +1,8 @@
-# Magic-Leap-Playground
+# Magic-Leap-Playground (project continued on https://github.com/M8s-Inc)
  
 M8s Smart Home 11 13 20
+
+
 
 # Arduino
 
